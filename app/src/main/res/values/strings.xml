@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description">Замечает экран коротких видео (Shorts, Reels, Клипы) и закрывает его. Содержимое экранов никуда не отправляется.</string>
+</resources>
